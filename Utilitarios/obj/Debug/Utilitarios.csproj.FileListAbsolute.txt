@@ -1,0 +1,5 @@
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Utilitarios\obj\Debug\Utilitarios.pdb

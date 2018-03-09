@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="/Logica/Moderador/MasterModerador.master.cs" Inherits="Vista_Roles_Moderador_MasterModerador" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- jQuery-->
+<script src="js/jquery.min.js"></script>
+<!-- Custom Theme files -->
+<!--theme-style-->
+<link href="/Vista/css/style.css" rel="stylesheet" type="text/css" media="all" />	
+<!--//theme-style-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--fonts-->
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900' rel='stylesheet' type='text/css'>
+<!--//fonts-->
+       <asp:ContentPlaceHolder id="head" runat="server">
+           <title></title>
+    </asp:ContentPlaceHolder>
+</head>
+    <script id="cid0020000171314816553" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 200px;height: 300px;">{"handle":"biblioseg","arch":"js","styles":{"a":"606060","b":100,"c":"FFFFFF","d":"FFFFFF","k":"606060","l":"606060","m":"606060","n":"FFFFFF","p":"10","q":"606060","r":100,"pos":"br","cv":1,"cvbg":"606060","cvw":75,"cvh":30}}</script>
+<body>
+<div class="header">
+        <!---->
+        <div class="header-left">
+            <div class="logo">
+                <a href="index.aspx"><img src="/Vista/images/logo.jpg" alt=""></a>
+                                 <table class="auto-style1">
+                                <tr>
+                                    <td class="auto-style2"><asp:Image ID="imgPerfil" runat="server" Height="50px" Width="50px" /></td>
+                                    <td><asp:Label ID="lblUser" runat="server" Text=""></asp:Label></td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style2">Puntos</td>
+                                    <td>
+                                        <asp:Label ID="lb_puntos" runat="server"></asp:Label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="auto-style2">Karma</td>
+                                    <td>
+                                        <asp:Label ID="lb_karma" runat="server"></asp:Label>
+                                    </td>
+                                </tr>
+                  </table>
+            </div>
+            <div >
+                <ul id="menu" >  <!-- acá empieza el Id="menu"   -->
+                    <li><a href="index.aspx">INICIO</a></li>
+                    <li><a href="sobre.aspx" class="black"> SOBRE</a></li>
+                    
+         
+                    
+                    <li>
+                        <li><a href="" class="black1"> BIBLIOTECA</a>
+                        <ul>
+                            <li><a href="linux.aspx" class="black1">GNU/Linux</a></li>
+                            <li><a href="windows.aspx" class="black1">Windows</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="BuscarHerramienta.aspx" class="black2">BUSCAR HERRAMIENTA</a></li>
+                    <li><a href="AgregarCat.aspx" class="black2">AGREGAR CATEGORIA</a></li>
+                    <li><a href="AgregarHerramienta.aspx" class="black2">AGREGAR HERRAMIENTAS</a></li>
+                    <li><a href="EditarHerramienta.aspx" class="black2">EDITAR HERRAMIENTAS</a></li>
+                    <li><a href="ModerarH.aspx" class="black2">MODERAR CONTENIDO</a></li>
+                    <li><a href="/Vista/Roles/Normal/cerrarsession.aspx" class="black3"> SALIR</a></li>
+                </ul>  <!--Aca termina-->
+            </div>
+
+        </div>
+        <!--      -->
+
+        <div class="content">
+            <div class="work">
+              
+                <!--CONTENIDo-->
+
+                <form id="form2" runat="server">
+                    <div>
+                        <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+                            
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </form>
+                   
+
+            </div>
+        </div>
+</body>
+    <footer>BiblioSeg | 2017 
+
+    </footer>
+</html>

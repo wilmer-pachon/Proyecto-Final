@@ -1,0 +1,10 @@
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Encapsular\bin\Debug\Encapsular.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Encapsular\obj\Debug\Encapsular.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Encapsular\obj\Debug\Encapsular.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Encapsular\obj\Debug\Encapsular.csprojResolveAssemblyReference.cache
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Encapsular\bin\Debug\Encapsular.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Encapsular\obj\Debug\Encapsular.csprojResolveAssemblyReference.cache
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Encapsular\obj\Debug\Encapsular.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Encapsular\obj\Debug\Encapsular.pdb

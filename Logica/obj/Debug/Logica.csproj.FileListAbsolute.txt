@@ -1,0 +1,41 @@
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Logica.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Logica.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Datos.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Encapsular.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Npgsql.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Utilitarios.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Mono.Security.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Datos.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Encapsular.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Npgsql.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\Npgsql.xml
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\obj\Debug\Logica.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Logica\obj\Debug\Logica.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Logica.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Logica.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Datos.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Encapsular.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Utilitarios.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Mono.Security.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Datos.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Encapsular.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Utilitarios.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Npgsql.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\Npgsql.xml
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\de\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\es\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\obj\Debug\Logica.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Logica\obj\Debug\Logica.pdb

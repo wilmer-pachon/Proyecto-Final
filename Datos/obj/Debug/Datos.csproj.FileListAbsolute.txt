@@ -1,0 +1,37 @@
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Datos.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Datos.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Encapsular.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Npgsql.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Utilitarios.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Mono.Security.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Encapsular.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Npgsql.pdb
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\Npgsql.xml
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\obj\Debug\Datos.dll
+C:\Users\Nelson\Desktop\BiblioSeg\raiz\Datos\obj\Debug\Datos.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Datos.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Datos.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Encapsular.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Utilitarios.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Mono.Security.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Encapsular.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Utilitarios.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Npgsql.pdb
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\Npgsql.xml
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\de\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\es\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\obj\Debug\Datos.dll
+C:\Users\wilme\Desktop\SEXTO SEMESTRE\ING. SOFTWARE II\proyecto_final\BiblioSeg\raiz\Datos\obj\Debug\Datos.pdb

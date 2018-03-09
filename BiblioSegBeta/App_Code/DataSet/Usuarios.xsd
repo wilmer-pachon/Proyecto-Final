@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Usuarios" targetNamespace="http://tempuri.org/Usuarios.xsd" xmlns:mstns="http://tempuri.org/Usuarios.xsd" xmlns="http://tempuri.org/Usuarios.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Usuarios" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Usuarios" msprop:Generator_UserDSName="Usuarios">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Herramientas" msprop:Generator_TableClassName="HerramientasDataTable" msprop:Generator_TableVarName="tableHerramientas" msprop:Generator_RowChangedName="HerramientasRowChanged" msprop:Generator_TablePropName="Herramientas" msprop:Generator_RowDeletingName="HerramientasRowDeleting" msprop:Generator_RowChangingName="HerramientasRowChanging" msprop:Generator_RowEvHandlerName="HerramientasRowChangeEventHandler" msprop:Generator_RowDeletedName="HerramientasRowDeleted" msprop:Generator_RowClassName="HerramientasRow" msprop:Generator_UserTableName="Herramientas" msprop:Generator_RowEvArgName="HerramientasRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_herramienta" msprop:Generator_ColumnVarNameInTable="columnid_herramienta" msprop:Generator_ColumnPropNameInRow="id_herramienta" msprop:Generator_ColumnPropNameInTable="id_herramientaColumn" msprop:Generator_UserColumnName="id_herramienta" type="xs:int" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="url_sitio" msprop:Generator_ColumnVarNameInTable="columnurl_sitio" msprop:Generator_ColumnPropNameInRow="url_sitio" msprop:Generator_ColumnPropNameInTable="url_sitioColumn" msprop:Generator_UserColumnName="url_sitio" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha" msprop:Generator_ColumnVarNameInTable="columnfecha" msprop:Generator_ColumnPropNameInRow="fecha" msprop:Generator_ColumnPropNameInTable="fechaColumn" msprop:Generator_UserColumnName="fecha" type="xs:string" minOccurs="0" />
+              <xs:element name="descripcion" msprop:Generator_ColumnVarNameInTable="columndescripcion" msprop:Generator_ColumnPropNameInRow="descripcion" msprop:Generator_ColumnPropNameInTable="descripcionColumn" msprop:Generator_UserColumnName="descripcion" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
